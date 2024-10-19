@@ -1,0 +1,165 @@
+      <div class="Project-Details" id="project">
+        <h2>Real Time Project</h2>
+         <!-- Carousel -->
+    <div id="carouselExampleDark" class="carousel carousel-dark slide" data-bs-ride="carousel">
+      <div class="carousel-indicators">
+          <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="0" class="active"
+              aria-current="true" aria-label="Slide 1"></button>
+          <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="1" aria-label="Slide 2"></button>
+          <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="2" aria-label="Slide 3"></button>
+          <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="3" aria-label="Slide 4"></button>
+      </div>
+
+      <div class="carousel-inner">
+
+          <!-- Slide 1: User Life Cycle Management -->
+          <div class="carousel-item active justify-content-center" data-bs-interval="10000">
+              <div class="container">
+                  <div class="row text-align-center">
+                      <div class="col-md-6 mx-auto">
+                          <h6>User Life Cycle Management</h6>
+                          <p>Automated user lifecycle management and access provisioning for 2,000 users, optimizing
+                              identity processes and providing access support.</p>
+                      </div>
+                  </div>
+              </div>
+          </div>
+
+          <!-- Slide 2: Customer Relationship Management -->
+          <div class="carousel-item" data-bs-interval="2000">
+              <div class="container">
+                  <div class="row text-align-center">
+                      <div class="col-md-6 mx-auto">
+                          <h6>Customer Relationship Management</h6>
+                          <p>Automated customer relationship management, optimizing sales processes and enhancing
+                              customer satisfaction.</p>
+                      </div>
+                  </div>
+              </div>
+          </div>
+
+          <!-- Slide 3: Password Manager -->
+          <div class="carousel-item">
+              <div class="container">
+                  <div class="row text-align-center">
+                      <div class="col-md-6 mx-auto">
+                          <h6>Password Manager</h6>
+                          <p>Implemented and supported 1Password for secure password management, ensuring smooth
+                              integration and ongoing user support.</p>
+                      </div>
+                  </div>
+              </div>
+          </div>
+
+          <!-- Slide 4: Automating User Tasks -->
+          <div class="carousel-item">
+              <div class="container">
+                  <div class="row text-align-center">
+                      <div class="col-md-6 mx-auto">
+                          <h6>Automating User Tasks</h6>
+                          <ul class="list-unstyled">
+                              <li>&rarr; Deactivated users across IAM Non-Prod platforms post offboarding.</li>
+                              <li>&rarr; Automated role/admin access and application requests with security
+                                  validation.</li>
+                              <li>&rarr; Automated password reset for users when SSPR is disabled.</li>
+                              <li>&rarr; Automated DL and shared mailbox creation.</li>
+                          </ul>
+                      </div>
+                  </div>
+              </div>
+          </div>
+
+      </div>
+
+      <!-- Carousel controls -->
+      <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Previous</span>
+      </button>
+      <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Next</span>
+      </button>
+  </div>
+
+   
+    </div>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ---------------------------------------------------------------
+
+
+
+    <h2>Tools and Technologies</h2>
+    <div class="IAM-overview">
+      <article class="IAM-item">
+        <img src="./Pictures/Okta.png" alt="Okta Identity Platform" />
+        <h6>Okta Identity Platform</h6>
+        <p>
+          Proficient in integrating Okta Identity Platform with other IAM
+          systems, enabling seamless user authentication and authorization
+          across multiple applications.
+        </p>
+      </article>
+
+      <article class="IAM-item">
+        <img src="./Pictures/Entra.png" alt="Entra" />
+        <h6>Entra</h6>
+        <p>
+          Familiar with Entra, a comprehensive identity management solution,
+          enabling users to manage their accounts securely across multiple
+          systems.
+        </p>
+      </article>
+
+      <article class="IAM-item">
+        <img src="./Pictures/WorkFlow.png" alt="Okta Workflows" />
+        <h6>Okta Workflows</h6>
+        <p>
+          Familiar with Okta Workflows, implementing automation for user
+          provisioning and access control, optimizing identity management and
+          enhancing overall security across platforms.
+        </p>
+      </article>
+
+      <article class="IAM-item">
+        <img src="./Pictures/PA.png" alt="Microsoft Power Automate" />
+        <h6>Microsoft Power Automate</h6>
+        <p>
+          Skilled in Microsoft Power Automate, leveraging automation to
+          streamline workflows for identity management processes, enabling
+          efficient data handling and integration across various applications.
+        </p>
+      </article>
+
+      <article class="IAM-item">
+        <img src="./Pictures/GitHub.png" alt="GitHub" />
+        <h6>GitHub</h6>
+        <p>
+          Proficient in GitHub for version control, collaboration, and
+          deployment of full stack applications.
+        </p>
+      </article>
+
+      <article class="IAM-item">
+        <img src="./Pictures/postman.png" alt="Postman" />
+        <h6>Postman</h6>
+        <p>
+          Familiar with Postman, a popular API testing tool, enabling
+          developers to create, test, and document APIs effectively.
+        </p>
+      </article>
+    </div>
+</div>
